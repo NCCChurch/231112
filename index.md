@@ -1,3 +1,4 @@
+
 # 231112 主日证道 : 不能隔绝的爱
 ## 讲员：张弟兄
 ## 经文：《罗马书》8章
@@ -44,8 +45,4 @@
 
 ### ———————————————————
 
-## [主日证道汇总](https://nccchurch.github.io/Sermons/)
-
-
-
-
+## [主日证道汇总](https://nccchurch.github.io/Sermons/
